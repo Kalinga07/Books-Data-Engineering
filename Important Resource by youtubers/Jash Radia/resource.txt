@@ -1,0 +1,9 @@
+Learn NoSql Basic: https://www.coursera.org/articles/nosql-vs-sql
+Diagnose cost and performance issues using the Spark UI: 
+https://docs.databricks.com/aws/en/optimizations/spark-ui-guide
+snowflake clustering:
+https://docs.snowflake.com/en/user-guide/tables-clustering-keys
+Learn System Design using examples provided by Aws Architechture
+https://aws.amazon.com/architecture/
+Open source dataset by Aws
+https://aws.amazon.com/opendata/
