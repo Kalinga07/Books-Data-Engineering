@@ -21,10 +21,12 @@ data-engineering-books/
 │   ├── streaming/
 │   ├── cloud/
 │   └── orchestration/
+│   └── interviews/
 │
 ├── resources/
 │   ├── notes/
 │   └── cheatsheets/
+│   └── youtubers-resources/
 │
 ├── README.md
 └── LICENSE
