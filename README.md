@@ -8,24 +8,27 @@ A well-organized collection of **Data Engineering** books categorized by topic f
 
 ---
 
-# 📂 Repository Structure
+## 📂 Repository Structure
+
+```text
 data-engineering-books/
 │
 ├── books/
-│ ├── fundamentals/
-│ ├── databases/
-│ ├── data-warehousing/
-│ ├── big-data/
-│ ├── streaming/
-│ ├── cloud/
-│ └── orchestration/
+│   ├── fundamentals/
+│   ├── databases/
+│   ├── data-warehousing/
+│   ├── big-data/
+│   ├── streaming/
+│   ├── cloud/
+│   └── orchestration/
 │
 ├── resources/
-│ ├── notes/
-│ └── cheatsheets/
+│   ├── notes/
+│   └── cheatsheets/
 │
 ├── README.md
 └── LICENSE
+```
 
 ---
 
@@ -99,26 +102,59 @@ Workflow management and pipeline automation.
 | Prefect |
 | Dagster |
 
----
-
-# 🎯 Suggested Learning Roadmap
-
-### 🟢 Beginner
-1. Fundamentals of Data Engineering  
-2. Designing Data-Intensive Applications  
-
-### 🟡 Intermediate
-3. Database Internals  
-4. The Data Warehouse Toolkit  
-5. Spark: The Definitive Guide  
-
-### 🔴 Advanced
-6. Kafka: The Definitive Guide  
-7. Cloud Data Engineering  
-8. Distributed Systems Deep Dive  
 
 ---
 
 # 🏷️ File Naming Convention
 
 All PDFs follow:
+
+### Example:
+```text
+designing-data-intensive-applications-kleppmann-2017.pdf
+fundamentals-of-data-engineering-reis-2022.pdf
+spark-the-definitive-guide-chambers-2018.pdf
+```
+
+✔ Use lowercase  
+✔ Use hyphens instead of spaces  
+✔ Avoid special characters  
+
+---
+
+# 🗂 Resources Directory
+
+The `resources/` folder contains:
+
+## notes/
+- Personal reading notes
+- Chapter summaries
+- Architecture explanations
+
+## cheatsheets/
+- Quick reference materials
+- SQL patterns
+- Data modeling templates
+- Streaming architecture diagrams
+
+---
+
+# 🎯 Suggested Learning Path
+
+## 🟢 Beginner
+1. Fundamentals of Data Engineering  
+2. Distributed systems basics  
+3. Basic SQL & database concepts  
+
+## 🟡 Intermediate
+4. Data warehouse modeling  
+5. Spark and batch processing  
+6. Database internals  
+
+## 🔴 Advanced
+7. Streaming systems  
+8. Cloud-native data engineering  
+9. Advanced distributed system design  
+
+---
+
